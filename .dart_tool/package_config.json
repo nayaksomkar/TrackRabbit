@@ -146,13 +146,13 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "fluttertemplate",
+      "name": "TrackRabbit",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-02-03T01:43:38.375738Z",
+  "generated": "2024-02-03T02:02:33.195208Z",
   "generator": "pub",
   "generatorVersion": "3.2.6"
 }
